@@ -34,7 +34,7 @@ Generative AI, and building practical projects that solve real-world problems.
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/vashisht-kumar-78250b343)
+- LinkedIn: www.linkedin.com/in/vashisht-kumar-78250b343
 - Email: vansh.xyz1604@gmail.com
 
 ---
