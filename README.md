@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Vashisht Kumar 👋
 
-<!--
-**itsme-V/itsme-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | AI & GenAI Enthusiast | Aspiring AI Engineer
 
-Here are some ideas to get you started:
+I'm a 3rd-year Computer Science student passionate about Artificial Intelligence,
+Generative AI, and building practical projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Artificial Intelligence & Machine Learning
+- Generative AI
+- Data Structures & Algorithms
+- Python & C++
+- Database Management Systems
+
+🛠️ Tech I'm working with:
+- Python
+- C
+- SQL
+- Git & GitHub
+- Machine Learning
+- Generative AI
+
+🚀 Currently:
+- Building projects to strengthen my development skills
+- Practicing DSA and problem solving
+- Exploring AI & GenAI technologies
+- Preparing for internships and industry opportunities
+
+📌 Goals:
+- Become an AI Engineer
+- Build meaningful AI projects
+- Contribute to open-source
+- Gain real-world industry experience
+
+### 📫 Connect With Me
+
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/vashisht-kumar-78250b343)
+- Email: vansh.xyz1604@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and follow my journey!
